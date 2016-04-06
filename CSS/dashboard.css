@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+}
+.panel-holder{
+	padding: 40px 15px;
+}
+.service-panel
+{
+	width: 400px;
+	max-height: 350px;
+	margin-right: 20px;
+}
